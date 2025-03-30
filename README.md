@@ -19,8 +19,7 @@ Welcome to **Wendy's Artistry** – a website showcasing artistic works and crea
 - ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
 - ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-- ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+
 
 ## 📦 Installation
 ```sh
