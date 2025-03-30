@@ -1,1 +1,1 @@
-# Wendys-Artistry-
+# Wendys-Artistry
