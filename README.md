@@ -10,8 +10,6 @@ Welcome to **Wendy's Artistry** – a website showcasing artistic works and crea
 
 ## 🚀 Features
 - 🎭 Stunning art gallery
-- 🛍️ E-commerce integration for selling artwork
-- 🌙 Dark & Light mode toggle
 - 📩 Contact form for commissions
 - 🎨 Customizable themes
 
